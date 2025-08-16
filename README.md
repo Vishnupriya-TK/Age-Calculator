@@ -1,3 +1,4 @@
+
 ````markdown
 # 🎂 Age Calculator 🎉
 
@@ -20,13 +21,12 @@ It lets you enter your Date of Birth and shows:
 
 ---
 
-
 ## 📦 Installation
 
 1. Clone this repository or copy the code:
    ```bash
    git clone https://github.com/Vishnupriya-TK/Age-Calculator.git
-   cd age-calculator-streamlit
+   cd Age-Calculator
 ````
 
 2. Install dependencies:
@@ -53,16 +53,23 @@ It lets you enter your Date of Birth and shows:
 ## 📂 File Structure
 
 ```
-age-calculator/
+Age-Calculator/
 │── app.py            # Main Streamlit app
 │── requirements.txt  # Dependencies
 │── README.md         # Documentation
 ```
-````markdown
+
+---
+````
 
 ---
 
-##requirements.txt
-```
+### 📦 requirements.txt
+```txt
 streamlit>=1.32.0
-```
+````
+
+---
+
+
+Do you also want me to add a **demo screenshot section** in the README (with placeholder image link), so your repo looks even more professional?
