@@ -71,5 +71,3 @@ streamlit>=1.32.0
 
 ---
 
-
-Do you also want me to add a **demo screenshot section** in the README (with placeholder image link), so your repo looks even more professional?
