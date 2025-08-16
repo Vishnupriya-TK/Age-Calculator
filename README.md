@@ -1,5 +1,5 @@
 ````markdown
-# 🎂 Fun Age Calculator 🎉
+# 🎂 Age Calculator 🎉
 
 A simple and interactive Age Calculator built with **Streamlit**.  
 It lets you enter your Date of Birth and shows:
@@ -20,16 +20,12 @@ It lets you enter your Date of Birth and shows:
 
 ---
 
-## 🖼️ Demo Screenshot
-(Add a screenshot here after running locally)
-
----
 
 ## 📦 Installation
 
 1. Clone this repository or copy the code:
    ```bash
-   git clone https://github.com/your-username/age-calculator-streamlit.git
+   git clone https://github.com/Vishnupriya-TK/Age-Calculator.git
    cd age-calculator-streamlit
 ````
 
@@ -62,14 +58,11 @@ age-calculator/
 │── requirements.txt  # Dependencies
 │── README.md         # Documentation
 ```
+````markdown
 
 ---
 
-## 🌍 Deployment
-
-You can deploy this app easily on **Streamlit Cloud**:
-
-```bash
-streamlit run app.py
+##requirements.txt
 ```
-
+streamlit>=1.32.0
+```
